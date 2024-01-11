@@ -1,0 +1,17 @@
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.deps.json
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.runtimeconfig.json
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Data.pdb
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Core.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\bin\Debug\net6.0\DatabaseTask.Core.pdb
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.csproj.AssemblyReference.cache
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.AssemblyInfoInputs.cache
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.AssemblyInfo.cs
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.csproj.CoreCompileInputs.cache
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.csproj.CopyComplete
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\refint\DatabaseTask.Data.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.pdb
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\DatabaseTask.Data.genruntimeconfig.cache
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Data\obj\Debug\net6.0\ref\DatabaseTask.Data.dll

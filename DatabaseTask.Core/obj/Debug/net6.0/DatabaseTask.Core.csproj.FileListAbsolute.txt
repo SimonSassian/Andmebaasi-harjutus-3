@@ -1,0 +1,11 @@
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\bin\Debug\net6.0\DatabaseTask.Core.deps.json
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\bin\Debug\net6.0\DatabaseTask.Core.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\bin\Debug\net6.0\DatabaseTask.Core.pdb
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\DatabaseTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\DatabaseTask.Core.AssemblyInfoInputs.cache
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\DatabaseTask.Core.AssemblyInfo.cs
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\DatabaseTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\DatabaseTask.Core.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\refint\DatabaseTask.Core.dll
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\DatabaseTask.Core.pdb
+C:\Users\gross\Downloads\DatabaseTask-master\DatabaseTask-master\PudIpadi\DatabaseTask\DatabaseTask.Core\obj\Debug\net6.0\ref\DatabaseTask.Core.dll
